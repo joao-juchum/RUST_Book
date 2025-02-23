@@ -1,0 +1,2 @@
+window.ALL_CRATES = ["GuessingGame","byteorder","cfg_if","getrandom","libc","ppv_lite86","proc_macro2","quote","rand","rand_chacha","rand_core","syn","unicode_ident","zerocopy","zerocopy_derive"];
+//{"start":21,"fragment_lengths":[14,12,9,12,7,13,14,8,7,14,12,6,16,11,18]}
